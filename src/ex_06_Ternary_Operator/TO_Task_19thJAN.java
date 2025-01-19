@@ -18,7 +18,7 @@ public class TO_Task_19thJAN {
 //String result = (number > 10) ? (number > 20 ? ">20":"B 10 and 20"):"<10";
 
     public static void main(String[] args) {
-        int mark = 95;
+        int mark = 89;
         //String Result = (mark<=59) ? "F":(mark<=69)?"D":(mark<=79)?"C":(mark<=89)?"B":(mark<=100)?"A";
         String Result = (mark<=59)? "F": ((mark<=69)?"D":(mark<=79)?"C":(mark<=89)?"B":"A");
         System.out.println(Result);
