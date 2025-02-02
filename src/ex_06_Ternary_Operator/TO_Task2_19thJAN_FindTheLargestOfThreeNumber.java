@@ -9,5 +9,4 @@ public class TO_Task2_19thJAN_FindTheLargestOfThreeNumber {
                 ((num2>=num3)) ? "Num2" : "Num3";
         System.out.println("The Largest number is:"+ theLargestNumberIs);
     }
-
 }
